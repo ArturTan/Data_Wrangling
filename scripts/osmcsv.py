@@ -162,7 +162,7 @@ import xml.etree.cElementTree as ET
 
 import cerberus
 
-import schematest
+from . import schematest
 
 OSM_PATH = "wroclaw"
 
