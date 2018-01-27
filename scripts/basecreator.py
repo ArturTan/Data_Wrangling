@@ -1,8 +1,6 @@
 import sqlite3
 import os
 
-from tablecreator import table_creator
-
 
 def basecreator():
     if os.path.isfile("test.db"):

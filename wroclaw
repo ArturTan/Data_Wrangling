@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+  <node changeset="34674314" id="95180666" lat="51.1335617" lon="17.0477511" timestamp="2015-10-16T12:23:16Z" uid="2098272" user="maraf24" version="6" />
+  <node changeset="7359486" id="1166062611" lat="51.0996597" lon="17.0539462" timestamp="2011-02-22T00:45:26Z" uid="117617" user="lms" version="1" />
+  <node changeset="7368892" id="1167378816" lat="51.1022715" lon="17.0380259" timestamp="2011-02-23T00:57:37Z" uid="117617" user="lms" version="1" />
+  <node changeset="30222161" id="1167446243" lat="51.1074009" lon="17.0369676" timestamp="2015-04-14T20:52:44Z" uid="2098272" user="maraf24" version="2" />
+  <node changeset="7369274" id="1167514381" lat="51.1084961" lon="17.0663097" timestamp="2011-02-23T03:03:17Z" uid="117617" user="lms" version="1" />
+  <node changeset="7370978" id="1167898008" lat="51.1173179" lon="17.0638327" timestamp="2011-02-23T10:35:01Z" uid="117617" user="lms" version="1" />
+  <node changeset="7370978" id="1167999452" lat="51.1143217" lon="17.0098819" timestamp="2011-02-23T11:47:23Z" uid="117617" user="lms" version="1" />
+  <node changeset="7371913" id="1168120504" lat="51.1160583" lon="17.0562326" timestamp="2011-02-23T12:57:37Z" uid="117617" user="lms" version="1" />
+  <node changeset="7372719" id="1168256485" lat="51.1144802" lon="17.0446877" timestamp="2011-02-23T14:17:56Z" uid="117617" user="lms" version="1" />
+  <node changeset="7380895" id="1170083188" lat="51.1203259" lon="17.0300198" timestamp="2011-02-24T12:54:50Z" uid="117617" user="lms" version="1" />
+  <node changeset="11050092" id="1684420695" lat="51.1064100" lon="17.0135624" timestamp="2012-03-21T09:35:33Z" uid="117617" user="lms" version="1" />
+  <node changeset="21226008" id="2730946457" lat="51.0997696" lon="17.0692814" timestamp="2014-03-21T11:56:30Z" uid="94114" user="Jaszczur" version="1" />
+  <node changeset="51240789" id="3107043422" lat="51.1013056" lon="17.0520850" timestamp="2017-08-18T18:46:23Z" uid="123682" user="Krzysztof Adamski" version="3">
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:postcode" v="50-434" />
+    <tag k="addr:street" v="Generała Ignacego Prądzyńskiego" />
+    <tag k="name" v="Księgarnia &quot;KWANT&quot;" />
+    <tag k="shop" v="books" />
+    <tag k="website" v="http://ksiegarniakwant.pl/" />
+  </node>
+  <node changeset="26952462" id="3199958763" lat="51.1159512" lon="17.0296059" timestamp="2014-11-22T14:08:23Z" uid="2378643" user="psboypl" version="1" />
+  <node changeset="36401537" id="3553609147" lat="51.1153048" lon="17.0437159" timestamp="2016-01-06T12:08:00Z" uid="2098272" user="maraf24" version="2">
+    <tag k="FIXME" v="tabliczka" />
+    <tag k="description" v="nakaz jazdy w lewo za wyjątkiemi: 1.pojazdów Katedry i Kurii z identyfikatorami; 2.dorożek i meleksów turystycznych; 3. dojazdów do posesji; 4. autokarów turystycznych; 5. rowerów" />
+    <tag k="man_made" v="pole" />
+    <tag k="traffic_sign" v="PL:C-4" />
+  </node>
+  <node changeset="33388674" id="3700920335" lat="51.1108734" lon="17.0592852" timestamp="2015-08-17T11:55:45Z" uid="2098272" user="maraf24" version="1" />
+  <node changeset="34065916" id="3745906746" lat="51.1133509" lon="17.0658832" timestamp="2015-09-16T16:14:19Z" uid="2098272" user="maraf24" version="1" />
+  <node changeset="35913860" id="3889410830" lat="51.1125808" lon="17.0638439" timestamp="2015-12-12T18:22:15Z" uid="1593161" user="Ancymon" version="1" />
+  <node changeset="42933953" id="4450320547" lat="51.1134649" lon="17.0365998" timestamp="2016-10-16T11:20:05Z" uid="2098272" user="maraf24" version="1" />
+  <node changeset="45268398" id="4616108939" lat="51.1154273" lon="17.0432418" timestamp="2017-01-18T11:56:03Z" uid="2445224" user="rowers2" version="1" />
+  <node changeset="45486860" id="4632925793" lat="51.1082640" lon="17.0172841" timestamp="2017-01-25T19:09:43Z" uid="2445224" user="rowers2" version="1" />
+  <node changeset="46985916" id="4743347672" lat="51.1149728" lon="17.0466586" timestamp="2017-03-19T15:44:09Z" uid="2445224" user="rowers2" version="1" />
+  <node changeset="55276864" id="4780125808" lat="51.1220218" lon="17.0374249" timestamp="2018-01-08T21:58:35Z" uid="2098272" user="maraf24" version="3">
+    <tag k="OBJECTID_height_lidar" v="41787" />
+    <tag k="height" v="8.9" />
+    <tag k="source:height" v="lidar_ALS-2015_UM_W-w_height-max" />
+  </node>
+  <node changeset="49804976" id="4934745215" lat="51.1186931" lon="17.0588242" timestamp="2017-06-25T02:21:41Z" uid="2445224" user="rowers2" version="2" />
+  <node changeset="50666914" id="5001237844" lat="51.1184079" lon="17.0532928" timestamp="2017-07-29T08:45:50Z" uid="2445224" user="rowers2" version="1" />
+  <node changeset="51252824" id="5044597240" lat="51.1080944" lon="17.0685892" timestamp="2017-08-19T10:53:28Z" uid="2445224" user="rowers2" version="1" />
+  <way changeset="47768484" id="101144110" timestamp="2017-04-14T07:07:14Z" uid="2445224" user="rowers2" version="7">
+    <nd ref="1167408979" />
+    <nd ref="1167492289" />
+    <nd ref="1167481075" />
+    <nd ref="1167326255" />
+    <nd ref="1167547420" />
+    <nd ref="1167400296" />
+    <nd ref="1167391184" />
+    <nd ref="1167472731" />
+    <nd ref="1167441841" />
+    <nd ref="1167541043" />
+    <nd ref="1167534175" />
+    <nd ref="1167408979" />
+    <tag k="WroclawGIS:building:ID" v="47534" />
+    <tag k="building" v="yes" />
+    <tag k="heritage" v="2" />
+    <tag k="heritage:operator" v="nid" />
+    <tag k="historic" v="building" />
+    <tag k="ref:nid" v="A-599310 521/Wm z 28.06.1993" />
+    <tag k="start_date" v="1900..1927" />
+  </way>
+  <way changeset="50224407" id="290718966" timestamp="2017-07-12T09:34:36Z" uid="2445224" user="rowers2" version="3">
+    <nd ref="2942231763" />
+    <nd ref="2942231755" />
+    <nd ref="2942231743" />
+    <nd ref="2942231741" />
+    <nd ref="2942231734" />
+    <nd ref="2942231732" />
+    <tag k="highway" v="service" />
+  </way>
+  <way changeset="39131166" id="402763281" timestamp="2016-05-05T22:11:49Z" uid="2098272" user="maraf24" version="2">
+    <nd ref="4051739737" />
+    <nd ref="4051739734" />
+    <nd ref="4051739731" />
+    <nd ref="4168257226" />
+    <nd ref="4051739724" />
+    <nd ref="4051739722" />
+    <nd ref="4051739719" />
+    <nd ref="4051739715" />
+    <nd ref="4051739714" />
+    <nd ref="4051739716" />
+    <nd ref="4051739717" />
+    <nd ref="4051739720" />
+    <nd ref="4051739723" />
+    <nd ref="4051739725" />
+    <nd ref="4051739728" />
+    <nd ref="4051739729" />
+    <nd ref="4051739730" />
+    <nd ref="4051739732" />
+    <nd ref="4051739733" />
+    <nd ref="4051739735" />
+    <nd ref="4051739736" />
+    <nd ref="4051739737" />
+    <tag k="leisure" v="playground" />
+  </way>
+  <way changeset="50643162" id="510994938" timestamp="2017-07-28T09:35:26Z" uid="2445224" user="rowers2" version="1">
+    <nd ref="4999476618" />
+    <nd ref="4394883960" />
+    <nd ref="4999476619" />
+    <tag k="footway" v="crossing" />
+    <tag k="highway" v="footway" />
+    <tag k="source:surface" v="orto2015" />
+    <tag k="surface" v="asphalt" />
+  </way>
+  </osm>
