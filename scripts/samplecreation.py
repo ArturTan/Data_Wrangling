@@ -3,7 +3,7 @@
 
 import xml.etree.ElementTree as ET  # Use cElementTree or lxml if too slow
 
-OSM_FILE = "./data/wroclaw"  # Replace this with your osm file
+OSM_FILE = "./data/wroclaw.osm"  # Replace this with your osm file
 SAMPLE_FILE = "./data/sample.osm"
 
 k = 100 # Parameter: take every k-th top level element
